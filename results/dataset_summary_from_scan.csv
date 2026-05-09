@@ -1,0 +1,5 @@
+language,raw_train,raw_valid,raw_test,cleaned_train,cleaned_valid,cleaned_test,final_train,final_valid,final_test
+Hindi,30851,3835,3836,30851,3835,3836,30851,3835,3836
+English,36877,4610,4610,251,36,31,251,36,31
+Gujarati,26472,3416,3346,26472,3416,3346,26472,3416,3346
+Marathi,22014,2750,2761,22014,2750,2761,22014,2750,2761
